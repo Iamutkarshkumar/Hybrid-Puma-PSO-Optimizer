@@ -11,7 +11,7 @@
 
 *Department of Computer Engineering, Netaji Subhas University of Technology (NSUT), Delhi, India*
 
-**Authors:** Utkarsh · Aditya · Devraj Saini · Piyush Garg · Sahaj Sharma
+**Authors:** Utkarsh kumar · Aditya · Devraj Saini · Piyush Garg · Sahaj Sharma
 
 </div>
 
